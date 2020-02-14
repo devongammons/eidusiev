@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jaeputhiey.0atman.com/sitemap.xml
